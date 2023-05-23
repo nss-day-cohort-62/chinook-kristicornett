@@ -1,2 +1,5 @@
 -- SQLite
-select * from album
+SELECT BillingCountry
+FROM Invoice
+
+
